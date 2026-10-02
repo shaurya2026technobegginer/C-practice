@@ -1,4 +1,5 @@
-
+/*This is a matchstick game between user and computer In witch there are 21 matchstick user can pick only 1 2 3 4 matchstick at a time the program
+is done such that computer always win.How? see the code */
 #include <stdio.h>
 
 int main()
